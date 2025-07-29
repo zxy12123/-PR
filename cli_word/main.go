@@ -76,6 +76,7 @@ func main() {
 	fmt.Println("================")
 	fmt.Println("请输入要统计的文本 (按 Ctrl+C 退出):")
 	fmt.Println()
+	fmt.Println("nihao")
 
 	scanner := bufio.NewScanner(os.Stdin)
 
