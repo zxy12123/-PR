@@ -1,6 +1,8 @@
 # CLI 词频统计器
 
 这是一个用 Go 语言编写的命令行词频统计工具。
+nihao
+zhehenyouyisi
 
 ## 功能特点
 
